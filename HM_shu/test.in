@@ -1,0 +1,8 @@
+
+commmand stop zone 1
+
+command iterate to convergence
+
+command table HM12 factor 2
+
+hden -7
