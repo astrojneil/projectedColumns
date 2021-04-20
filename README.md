@@ -14,7 +14,7 @@ Highlights of analysis code to generate projected column densities with Trident 
   
 5. Inside your output directory; 
  - copy convert.py and cloudy_ascii_hdf5.py to here
- - run convery.py with the following
+ - run convert.py with the following:
   $ python convert.py *name of .run file*  *name of final table*  H He Li Be B C N O F Ne Na Mg Al Si P S Cl Ar K Ca Sc Ti V CR Mn Fe Co Ni Cu Zn
   
   
